@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+
+    <string name="frnd1">Friend1</string>
+    <string name="frnd2">Friend2</string>
+    <string name="frnd3">Friend3</string>
+    <string name="frnd4">Friend4</string>
+    <string name="frnd5">Friend5</string>
+    <string name="frnd6">Friend6</string>
+    <string name="frnd7">Friend7</string>
+    <string name="frnd8">Friend8</string>
+    <string name="frnd9">Friend9</string>
+    <string name="frnd10">Friend10</string>
+    <string name="frnd11">Friend11</string>
+    <string name="frnd12">Friend12</string>
+
+
+
+    <string name="frnd1_des">mobile no:01600000000</string>
+    <string name="frnd2_des">mobile no:01600000000</string>
+    <string name="frnd3_des">mobile no:01600000000</string>
+    <string name="frnd4_des">mobile no:01600000000</string>
+    <string name="frnd5_des">mobile no:01600000000</string>
+    <string name="frnd6_des">mobile no:01600000000</string>
+    <string name="frnd7_des">mobile no:01600000000</string>
+    <string name="frnd8_des">mobile no:01600000000</string>
+    <string name="frnd9_des">mobile no:01600000000</string>
+    <string name="frnd10_des">mobile no:01600000000</string>
+    <string name="frnd11_des">mobile no:01600000000</string>
+    <string name="frnd12_des">mobile no:01600000000</string>
+
+
+
+
+
+
+
+</resources>
